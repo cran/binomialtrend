@@ -1,0 +1,9 @@
+e043adae26af9c78af87d7e15be22995 *DESCRIPTION
+e413c272eda2c52c147efd78f9323c81 *NAMESPACE
+e5de3e884fabecf8a7d62d3192af9f76 *R/binomialtrend.R
+121badde9f21f75dd5e2ed762c5905ca *R/data.R
+8d6baceb048d6a94d882beabca46f80a *R/trendmap.R
+14d3b1f9c5f6fec6ffea951342f073f8 *data/gsta_data.rda
+5a2c18425146edd039979ef767c02914 *man/binomialtrend.Rd
+9cedc6a9c314051929ed1ad77749f226 *man/gsta_data.Rd
+782c7a7d819f22ddf2e1801340df82ac *man/trendmap.Rd
